@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  CurrencyApp
+
+  Created by Bartek Lanczyk on 22/11/2020.
+  
+*/
+
+"currencyTableViewCell.nibName" = "CurrencyTableViewCell";
+"currencyTableViewCell.identifier" = "currencyTableViewCell";
+"currencyTableViewCell.error" = "CurrencyTableViewCell not found";
+
+"currencyDetailsViewController.identifier" = "currencyDetailsViewController";
+
+"currency.app.barTitle" = "Currency App";
+
+"refresh.spinner" = "Pull to refresh";
+
+

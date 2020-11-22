@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  CurrencyApp
+
+  Created by Bartek Lanczyk on 22/11/2020.
+  
+*/
+
+"currencyTableViewCell.error" = "CurrencyTableViewCell not found";
+
+"currency.app.barTitle" = "Currency App";
+
+"refresh.spinner" = "Pull to refresh";
